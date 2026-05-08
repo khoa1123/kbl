@@ -25,7 +25,7 @@
 		"innerColor": [213,249,255],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Dominator of the West",
-		"uniques": ["[+100]% [Iron] resource production",  "[+15]% Strength <for [Land] units> <vs cities>", "When defeating a [{Barbarian} {Land}] unit, earn [0] Gold and recruit it <with [100]% chance>"],
+		"uniques": ["[+100]% [Iron] resource production",  "[+15]% Strength <for [Land] units> <vs cities>", "When defeating a [Barbarian] unit, earn [0] Gold and recruit it <with [100]% chance>"],
 		"cities": ["Tyr","Moria","Carne","Aplos","Deria","Karni","Opis","Lesia","Psian","Eishena",
 			"Ellasar","Nestria","Cthamea","Narple","Irdania",]
 		"spyNames": ["Flavius", "Regula", "Servius", "Lucia", "Cornelius", "Licina", "Canus", "Serpens", "Agrippa", "Brutus"]
