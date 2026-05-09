@@ -2,7 +2,7 @@
 	{
 		"name": "Imperial Corp",
 		"unitType": "Sword",
-		"uniqueTo": "Empire of Tyrica",
+		"uniqueTo": "Tyrica",
 		"replaces": "Swordsman",
 		"movement": 3,
 		"strength": 16,
