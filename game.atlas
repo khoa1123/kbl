@@ -4,7 +4,13 @@ format: RGBA8888
 filter: Linear, Linear
 repeat: none
 pma: false
-Phasers-Photoroom
+UnitIcons/Imperial Corp
   bounds: 0, 0, 100, 100
-Tyrica-Photoroom
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Tyrica
   bounds: 100, 0, 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
