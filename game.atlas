@@ -1,16 +1,12 @@
-game.png.png
-size: 300, 200
+sheet.png
+size: 200, 300
 format: RGBA8888
 filter: Linear, Linear
 repeat: none
 pma: false
-UnitIcons/Imperial Corp
+Phasers-Photoroom
   bounds: 0, 0, 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/Tyrica
-  bounds: 100, 0, 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
+Swordsman
+  bounds: 100, 0, 32, 28
+Tyrica-Photoroom
+  bounds: 0, 100, 200, 200
