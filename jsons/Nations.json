@@ -21,8 +21,8 @@
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 
-		"outerColor": [27,53,63],
-		"innerColor": [213,249,255],
+        "outerColor": [ 28,51,119],
+        "innerColor": [255,255,255],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Dominator of the West",
 		"uniques": ["[+100]% [Iron] resource production",  "[+15]% Strength <for [Land] units> <vs cities>", "When defeating a [Barbarian] unit, earn [0] Gold and recruit it <with [100]% chance>"],
