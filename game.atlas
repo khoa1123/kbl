@@ -22,7 +22,7 @@ TileSets/FantasyHex/Units/Minotaur
   bounds: 224, 0, 32, 28
 UnitIcons/Imperial Corp
   bounds: 0, 31, 100, 100
-TileSets/FantasyHex/Tundra
+TileSets/FantasyHex/Tiles/Tundra
   bounds: 100, 31, 32, 28
 TileSets/FantasyHex/Tiles/Plains
   bounds: 132, 31, 32, 28
