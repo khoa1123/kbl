@@ -4,11 +4,23 @@ format: RGBA8888
 filter: Linear, Linear
 repeat: none
 pma: false
-Grassland
+TileSets/FantasyHex/Tiles/Grassland
   bounds: 0, 0, 32, 28
-Phasers-Photoroom
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+UnitIcons/Imperial Corp 
   bounds: 32, 0, 100, 100
-Swordsman-Photoroom
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Imperial Corp
   bounds: 132, 0, 32, 28
-Tyrica-Photoroom
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+NationIcons/Tyrica 
   bounds: 0, 100, 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
