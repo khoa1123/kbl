@@ -1,9 +1,126 @@
 [
+		{
+		"name": "Slime",
+		"unitType": "Anti-Cav",
+		"uniqueTo": "Barbarians",
+		"movement": 2,
+		"strength": 15,
+		"cost": 20,
+		"obsoleteTech": "Masonry",
+		"uniques": ["[+200]% Strength <when defending>" 
+					],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Hydra",
+		"uniqueTo": "Barbarians",
+		"replaces": "Submarine",
+		"unitType": "Water Terror",
+		"movement": 6,
+		"strength": 70,
+		"rangedStrength": 50,
+		"cost": 400,
+		"requiredTech": "Pharmaceuticals",
+		"uniques": ["[+75]% Strength <when attacking>", 
+					"Can enter ice tiles"
+					],
+		"promotions": ["March"],
+		"attackSound": "nonmetalhit",
+		"civilopediaText": [
+			{"text": "Also referred to as Lernaean Hydra, is a serpentine water monster in Greek and Roman mythology. While Kraken can only attack Water units, Hydra can attack both Water and Land units."}
+		]
+	},
+	{
+		"name": "Sandworm",
+		"unitType": "Anti-Cav",
+		"uniqueTo": "Barbarians",
+		"movement": 2,
+		"strength": 25,
+		"cost": 50,
+		"requiredTech": "Masonry",
+		"obsoleteTech": "Gunpowder",
+		"uniques": ["[+2] Movement <in [Desert] tiles>", 
+					"Double movement in [Desert]", 
+					"Only available <in [Desert] tiles>", 
+					"Limited to [1] per Civilization" 
+					],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Minotaur",
+		"unitType": "Sword",
+		"uniqueTo": "Barbarians",
+		"movement": 2,
+		"strength": 30,
+		"cost": 50,
+		"requiredTech": "Steel",
+		"obsoleteTech": "Rifling",
+		"uniques": ["Limited to [6] per Civilization"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Titan",
+		"unitType": "Sword",
+		"uniqueTo": "Barbarians",
+		"movement": 2,
+		"strength": 60,
+		"cost": 250,
+		"requiredTech": "Radio",
+		"uniques": ["Ignores Zone of Control", 
+					"Only available <in [Tundra] tiles>", 
+					"Limited to [3] per Civilization" 
+					],
+		"promotions": ["March"],
+		"attackSound": "metalhit"
+	},
+	{	
+	    "name": "Mammoth Rider",
+		"unitType": "Mounted",
+		"uniqueTo": "Barbarians",
+		"movement": 3,
+		"strength": 20,
+		"cost": 60,
+		"requiredTech": "Animal Husbandry",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["Can move after attacking", 
+		            "Only available <in [Tundra] tiles>"],
+		"attackSound": "elephant",
+		"civilopediaText": [
+			{"text": "Riding a mammoth isn't as easy as riding a horse, it requires special skills that are usually only possessed by brave people."}
+		]
+	},
+	{
+		"name": "Orc",
+		"unitType": "Sword",
+		"uniqueTo": "Barbarians",
+		"movement": 2,
+		"strength": 24,
+		"cost": 120,
+		"requiredTech": "Steel",
+		"uniques": ["[+10] HP when healing"],
+		"promotions": ["Shock"],
+		"attackSound": "metalhit",
+		"civilopediaText": [
+			{"text": "Strong yet stubborn kin of Goblin. Orc is a melee unit specialized for raiding cities."}
+		]
+	},
+	{
+		"name": "Goblin",
+		"unitType": "Sword",
+		"uniqueTo": "Barbarians",
+		"replaces": "Recon",
+		"movement": 2,
+		"strength": 4,
+		"cost": 10,
+		"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Orc",
+		"attackSound": "nonmetalhit"
+	},
 	{
 		"name": "Imperial Corp",
 		"unitType": "Sword",
 		"uniqueTo": "Tyrica",
-		"replaces": "Empire of Man",
+		"replaces": "Swordsman",
 		"movement": 3,
 		"strength": 16,
 		"cost": 80,
