@@ -98,7 +98,7 @@
 		"cost": 120,
 		"requiredTech": "Metal Casting",
 		"uniques": ["[+10] HP when healing"],
-		"promotions": ["Shock"],
+		"promotions": ["Shock I"],
 		"attackSound": "metalhit",
 		"civilopediaText": [
 			{"text": "Strong yet stubborn kin of Goblin. Orc is a melee unit specialized for raiding cities."}
@@ -108,7 +108,7 @@
 		"name": "Goblin",
 		"unitType": "Sword",
 		"uniqueTo": "Barbarians",
-		"replaces": "Recon",
+		"replaces": "Scout",
 		"movement": 2,
 		"strength": 4,
 		"cost": 10,
