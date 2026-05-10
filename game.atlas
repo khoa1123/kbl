@@ -12,7 +12,7 @@ TileSets/FantasyHex/Tiles/Grassland
   bounds: 64, 0, 32, 28
 UnitIcons/Imperial Corp 
   bounds: 96, 0, 100, 100
-TileSets/FantasyHex/Tiles/Plain
+TileSets/FantasyHex/Tiles/Plains
   bounds: 0, 100, 32, 28
 TileSets/FantasyHex/Units/Imperial Corp 
   bounds: 32, 100, 32, 28
