@@ -1,22 +1,36 @@
 game.png
-size: 200, 328
+size: 256, 331
 format: RGBA8888
 filter: Linear, Linear
 repeat: none
 pma: false
-TileSets/FantasyHex/Tiles/Desert
+Desert-Photoroom
   bounds: 0, 0, 32, 28
-TileSets/FantasyHex/Tiles/Grassland+Forest+Deer+Camp
-  bounds: 32, 0, 32, 31
-TileSets/FantasyHex/Tiles/Grassland
-  bounds: 64, 0, 32, 28
-UnitIcons/Imperial Corp 
-  bounds: 96, 0, 100, 100
-TileSets/FantasyHex/Tiles/Tundra
-  bounds: 0, 100, 32, 28
-TileSets/FantasyHex/Tiles/Plains
-  bounds: 32, 100, 32, 28
-TileSets/FantasyHex/Units/Imperial Corp 
-  bounds: 64, 100, 32, 28
-NationIcons/Empire of Man
-  bounds: 0, 128, 200, 200
+Goblin-Photoroom
+  bounds: 32, 0, 32, 28
+Grassland+Forest+Deer+Camp-Photoroom
+  bounds: 64, 0, 32, 31
+Grassland-Photoroom-Photoroom
+  bounds: 96, 0, 32, 28
+Hydra-Photoroom
+  bounds: 128, 0, 32, 28
+Imperial Corp-Photoroom
+  bounds: 160, 0, 32, 28
+Mammoth Rider-Photoroom
+  bounds: 192, 0, 32, 29
+Minotaur-Photoroom
+  bounds: 224, 0, 32, 28
+Phasers-Photoroom
+  bounds: 0, 31, 100, 100
+pixil-frame-0-Photoroom
+  bounds: 100, 31, 32, 28
+Plains-Photoroom
+  bounds: 132, 31, 32, 28
+Slime-Photoroom
+  bounds: 164, 31, 32, 28
+Swordsman-Photoroom-Photoroom
+  bounds: 196, 31, 32, 28
+Titan-Photoroom
+  bounds: 0, 131, 32, 28
+Tyrica-Photoroom
+  bounds: 32, 131, 200, 200
