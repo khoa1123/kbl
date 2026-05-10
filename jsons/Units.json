@@ -3,7 +3,7 @@
 		"name": "Imperial Corp",
 		"unitType": "Sword",
 		"uniqueTo": "Tyrica",
-		"replaces": "Swordsman",
+		"replaces": "Empire of Man",
 		"movement": 3,
 		"strength": 16,
 		"cost": 80,
