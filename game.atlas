@@ -1,0 +1,12 @@
+sheet.png
+size: 200, 300
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+pma: false
+Phasers-Photoroom
+  bounds: 0, 0, 100, 100
+Swordsman
+  bounds: 100, 0, 32, 28
+Tyrica-Photoroom
+  bounds: 0, 100, 200, 200
