@@ -4,11 +4,11 @@
 		"unitType": "Sword",
 		"uniqueTo": "Barbarians",
 		"movement": 2,
-		"strength": 15,
+		"strength": 12,
 		"cost": 20,
-		"obsoleteTech": "Masonry",
-		"uniques": ["[+200]% Strength <when defending>" 
-					],
+		"obsoleteTech": "Iron Working",
+		"uniques": ["[+200]% Strength <when defending>", 
+					"Limited to [3] per Civilization" ],
 		"attackSound": "nonmetalhit"
 	},
 	{
