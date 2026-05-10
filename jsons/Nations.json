@@ -1,21 +1,20 @@
 [
 	{
 		//nations
-		"name": "Tyrica",
-		"style": "Mediterranean",
+		"name": "Empire of Man",
 		"leaderName": "Romulus II",
-		"adjective": ["Tyrican"],
+		"adjective": ["Humans"],
 		"startBias": ["Avoid [Tundra]"],
 		"preferredVictoryType": "Domination",
 		"personality": "Romulus II",
 
-		"startIntroPart1": "We are Tyrica, heir to empire and master of the civilized world",
+		"startIntroPart1": "We are the Empire of Men, master of the civilized world",
 		"startIntroPart2": "Kneel before order, and you may yet prosper beneath our banners.",
 
 		"declaringWar": "Your resistance has exhausted our patience",
-		"attacked": "You dare raise steel against Tyrica? Then prepare for annihilation.",
-		"defeated": "Empires die slowly… and Tyrica shall haunt history long after you fade.",
-		"introduction": "Another realm rises before Tyrica. State your worth.",
+		"attacked": "You dare raise steel against The Empire? Then prepare for annihilation.",
+		"defeated": "Empires die slowly… and we shall haunt history long after you fade.",
+		"introduction": "Another realm rises before The Empire. State your worth.",
 		
 		"neutralHello": "Greetings.",
 		"hateHello": "What do YOU want?!",
