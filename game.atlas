@@ -1,26 +1,20 @@
 game.png
-size: 200, 300
+size: 200, 328
 format: RGBA8888
 filter: Linear, Linear
 repeat: none
 pma: false
-TileSets/FantasyHex/Tiles/Grassland
+Desert-Photoroom
   bounds: 0, 0, 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-UnitIcons/Imperial Corp 
-  bounds: 32, 0, 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Imperial Corp
-  bounds: 132, 0, 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-NationIcons/Tyrica 
-  bounds: 0, 100, 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
+Grassland+Forest+Deer+Camp
+  bounds: 32, 0, 32, 31
+Grassland-Photoroom
+  bounds: 64, 0, 32, 28
+Phasers-Photoroom
+  bounds: 96, 0, 100, 100
+Plains-Photoroom
+  bounds: 0, 100, 32, 28
+Swordsman-Photoroom
+  bounds: 32, 100, 32, 28
+Tyrica-Photoroom
+  bounds: 0, 128, 200, 200
