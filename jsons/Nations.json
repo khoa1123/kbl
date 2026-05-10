@@ -2,6 +2,7 @@
 	{
 		//nations
 		"name": "Tyrica",
+		"style": "Mediterranean",
 		"leaderName": "Romulus II",
 		"adjective": ["Tyrican"],
 		"startBias": ["Avoid [Tundra]"],
