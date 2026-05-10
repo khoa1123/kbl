@@ -18,5 +18,5 @@ TileSets/FantasyHex/Tiles/Plains
   bounds: 32, 100, 32, 28
 TileSets/FantasyHex/Units/Imperial Corp 
   bounds: 64, 100, 32, 28
-NationIcons/Tyrica
+NationIcons/Empire of Man
   bounds: 0, 128, 200, 200
