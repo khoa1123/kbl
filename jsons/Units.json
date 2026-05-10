@@ -1,7 +1,7 @@
 [
 		{
 		"name": "Slime",
-		"unitType": "Anti-Cav",
+		"unitType": "Sword",
 		"uniqueTo": "Barbarians",
 		"movement": 2,
 		"strength": 15,
@@ -15,7 +15,7 @@
 		"name": "Hydra",
 		"uniqueTo": "Barbarians",
 		"replaces": "Submarine",
-		"unitType": "Water Terror",
+		"unitType": "Submarine",
 		"movement": 6,
 		"strength": 70,
 		"rangedStrength": 50,
@@ -32,7 +32,7 @@
 	},
 	{
 		"name": "Sandworm",
-		"unitType": "Anti-Cav",
+		"unitType": "Sword",
 		"uniqueTo": "Barbarians",
 		"movement": 2,
 		"strength": 25,
@@ -96,7 +96,7 @@
 		"movement": 2,
 		"strength": 24,
 		"cost": 120,
-		"requiredTech": "Steel",
+		"requiredTech": "Metal Casting",
 		"uniques": ["[+10] HP when healing"],
 		"promotions": ["Shock"],
 		"attackSound": "metalhit",
