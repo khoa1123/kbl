@@ -4,17 +4,19 @@ format: RGBA8888
 filter: Linear, Linear
 repeat: none
 pma: false
-TileSets/FantasyHex/Tiles/Desert
+Desert-Photoroom
   bounds: 0, 0, 32, 28
-TileSets/FantasyHex/Tiles/Grassland+Forest+Deer+Camp
+Grassland+Forest+Deer+Camp
   bounds: 32, 0, 32, 31
-TileSets/FantasyHex/Tiles/Grassland
+Grassland-Photoroom
   bounds: 64, 0, 32, 28
-UnitIcons/Imperial Corp 
+Phasers-Photoroom
   bounds: 96, 0, 100, 100
-TileSets/FantasyHex/Tiles/Plains
+Plains-Photoroom
   bounds: 0, 100, 32, 28
-TileSets/FantasyHex/Units/Imperial Corp 
+Swordsman-Photoroom
   bounds: 32, 100, 32, 28
-NationIcons/Tyrica
+Tundra
+  bounds: 64, 100, 32, 28
+Tyrica-Photoroom
   bounds: 0, 128, 200, 200
