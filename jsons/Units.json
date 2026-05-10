@@ -129,7 +129,7 @@
 	    "upgradesTo": "Longswordsman",
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
-		"promotions": ["Logistics","Accuracy I"],
+		"promotions": ["March"],
 		"attackSound": "metalhit"
 	}
 ]
